@@ -45,7 +45,7 @@ console.table([acountid, acountemail, acountpassword, acountcity, acountcity])*/
 // console.log(" 5===2", 5 === 2); // strict equal to
 // console.log(" 5!==2", 5 !== 2); // strict not equal to
 // console.log(" 5 > 2", 5 > 2);
-
+console.log("hello ali")
 // logial operators//
 // let a = 4;
 // let b = 5;
